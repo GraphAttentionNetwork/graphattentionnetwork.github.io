@@ -1,4 +1,4 @@
-name: Generate Sitemap
+name: Generate GraphAttentionNetwork Sitemap
 on:
   push:
     branches: [main]
