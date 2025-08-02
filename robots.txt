@@ -1,4 +1,3 @@
 User-agent: *
-
-User-agent: Googlebot-Image
-Allow: /static/figures/
+Allow: /
+Sitemap: https://graphattentionnetwork.github.io/sitemap.xml
